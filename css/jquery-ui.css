@@ -57,7 +57,7 @@
 /* Interaction states
 ----------------------------------*/
 
-.ui-state-default, .ui-widget-content .ui-state-default, .ui-widget-header .ui-state-default { border: none; background:#fc636b; font-weight: normal/*{fwDefault}*/; color: #555555/*{fcDefault}*/;  border-radius: 100px;  outline: none;
+.ui-state-default, .ui-widget-content .ui-state-default, .ui-widget-header .ui-state-default { border: none; background:#FFA6A6; font-weight: normal/*{fwDefault}*/; color: #555555/*{fcDefault}*/;  border-radius: 100px;  outline: none;
   width: 10px;
   height: 10px; }
 .ui-state-default a, .ui-state-default a:link, .ui-state-default a:visited { color: #555555/*{fcDefault}*/; text-decoration: none; }
